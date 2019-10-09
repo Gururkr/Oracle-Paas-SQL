@@ -1,2 +1,2 @@
 SET_BLANKLINES_ON.sql
-test_sql.sql
+create_tab_sql.sql
